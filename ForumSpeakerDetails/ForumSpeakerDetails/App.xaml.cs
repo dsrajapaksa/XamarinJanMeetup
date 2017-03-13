@@ -15,7 +15,7 @@ namespace ForumSpeakerDetails
 
             MainPage = new ForumSpeakerDetails.MainPage();
         }
-
+//On Start Method
         protected override void OnStart()
         {
             // Handle when your app starts
